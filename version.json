@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.2.0",
-  "minimumVersion": "1.0.0",
-  "forceUpdateMessage": "Oyunu oynamaya devam etmek için lütfen güncelleyin. Bu güncelleme önemli hata düzeltmeleri ve iyileştirmeler içeriyor.",
-  "optionalUpdateMessage": "Yeni bir sürüm mevcut! Yeni özellikler ve iyileştirmeler için güncellemenizi öneririz."
+  "latestVersion": "1.2.3",
+  "minimumVersion": "1.2.3",
+  "forceUpdateMessage": "Please update to continue playing the game.",
+  "optionalUpdateMessage": "Update recommended."
 }
